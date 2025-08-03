@@ -39,20 +39,10 @@ property-cms/
 npm install
 ```
 
-### 2. Create `.env` File
-
-```bash
-cp .env.example .env
-```
-
-Then fill in your Sanity project ID and dataset.
-
-### 3. Run Sanity Studio
+### 2. Run Sanity Studio
 
 ```bash
 npm run dev
-# or
-pnpm dev
 ```
 
 Visit [http://localhost:3333](http://localhost:3333) to access the CMS dashboard.
