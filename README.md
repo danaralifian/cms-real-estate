@@ -7,9 +7,8 @@ This is a **Sanity Studio** project for managing real estate property listings. 
 ```
 property-cms/
 ├── sanity.config.ts        # Sanity Studio config
-├── schemas/
+├── schemaTypes/
 │   └── property.ts         # Schema for property documents
-├── .env                    # Environment variables
 └── ...
 ```
 
